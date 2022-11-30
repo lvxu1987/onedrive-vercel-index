@@ -45,7 +45,7 @@ module.exports = {
   protectedRoutes: ['/🌞 Private folder/u-need-a-password', '/🥟 Some test files/Protected route'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  // email: 'mailto:spencer.wushangbo@gmail.com',
+  email: 'mailto:me@lvxu.site',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
@@ -55,15 +55,7 @@ module.exports = {
       name: 'blog',
       link: 'https://lvxublog.com/',
     },
-    {
-      name: 'zhihu',
-      link: 'https://www.zhihu.com/people/lyuxu/',
-    },
-    {
-      name: 'bilibili',
-      link: 'https://space.bilibili.com/492401873',
-    },    
-  ],
+   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
   // https://day.js.org/docs/en/display/format for detailed specification. The default value is ISO 8601 full datetime
